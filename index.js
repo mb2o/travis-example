@@ -5,4 +5,4 @@ function square(a) {
 }
 
 assert.equal(square(4), 16); // this simple test should pass when run with Travis
-assert.equal(square(5), 24);
+assert.equal(square(-5), 25);
