@@ -1,0 +1,11 @@
+{
+  "name": "travis-example",
+  "version": "0.0.1",
+  "description": "A sample project for setting up Travis CI and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "mb2o <mboomaars@gmail.com>",
+  "license": "MIT"
+}
